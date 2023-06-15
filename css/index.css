@@ -197,15 +197,6 @@ label {
   line-height: 38.3px;
 }
 
-nav {
-  width: 400px;
-  line-height: 40px;
-  padding: 8px 25px;
-}
 
-nav label {
-  color: var(--half-white);
-  font-size: 16px;
-  display: block;
-  cursor: pointer;
-}
+
+
